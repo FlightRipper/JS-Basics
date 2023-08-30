@@ -1,2 +1,2 @@
 let name = "Ahmad";
-alert(name)
+alert(name);
